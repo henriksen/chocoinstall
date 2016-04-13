@@ -24,3 +24,4 @@ choco install -y nugetpackageexplorer
 choco install -y treesizefree 
 choco install -y totalcommander 
 choco install -y github 
+choco install -y spotify
